@@ -40,7 +40,7 @@ function countdown() {
 
  $('#countdown').countdown(date).on('finish.countdown', function (event) {
 
-	$("#live").replaceWith("<h1 class=\"cursive\"> <font color=\"red\">Sankalp is live, Homies!</font> ");
+	$("#live").replaceWith("<h1 class=\"cursive\"> <font color=\"yellow\">Sankalp is live, Homies!</font> ");
 	$("#countdown").replaceWith("");
     });
 
