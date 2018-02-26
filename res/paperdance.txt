@@ -1,8 +1,0 @@
-﻿EVENT NAME : paper dance.
-Description : paper Dance is a game for dancing companions. Once the song stops, the partners should step on the piece of paper and avoid touching the ground. The paper is folded in every stop so it gets smaller and smaller and so as the number of players.The couple whose feet don't touch the ground outside the paper will be declared as winner.
-Rules and regulations :
-2 per team.
-Entry fee : (if any) 
-Prize money : 1st :
-                          2nd :
-                          3rd :
