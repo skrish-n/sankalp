@@ -7,7 +7,7 @@ config = {
         year: 2018,
         month: 03,
         day: 02,
-        hour: 09,
+        hour: 10,
         minute: 30,
         second: 00
     }
@@ -40,7 +40,7 @@ function countdown() {
 
  $('#countdown').countdown(date).on('finish.countdown', function (event) {
 
-	$("#live").replaceWith("<h1 class=\"cursive\"> <font color=\"yellow\">Sankalp is live, Homies!</font> ");
+	$("#live").replaceWith("<h1 class=\"cursive\"> <font color=\"yellow\">Sankalp is live, Homies!</font><br/><img src=\"img/hunk1.jpeg\" height=\"200\" width=\"500\"/> ");
 	$("#countdown").replaceWith("");
     });
 
